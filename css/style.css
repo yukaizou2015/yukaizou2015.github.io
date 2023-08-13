@@ -210,6 +210,8 @@ ul.cat li {
 ol.type li {
 	display: inline-block;
 	margin-left: 20px;
+	/* Adjusted for smaller screen */
+	margin-bottom: 25px; 
 }
 ol.type li a {
 	border: 1px solid #777;
